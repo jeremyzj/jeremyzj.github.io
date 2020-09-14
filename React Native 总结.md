@@ -2,7 +2,10 @@
 
 
 ### 前言
+      
 
+
+      
 2015年3月, Facebook正式发布react-native，只支持iOS平台；2015年9月，Facebook发布了React Native for Android，让这一技术正式成为跨平台开发框架。   
 
 我们团队是在2016年中期开始接触并使用react-native, 起初团队有很多反对声，其中
